@@ -1,0 +1,4 @@
+Flask==2.2.5         # Web framework for building the backend
+PyPDF2==3.0.1        # For extracting text from PDF resumes
+openai==0.27.6       # OpenAI API for generating cover letters
+Werkzeug==2.2.3      # Utilities used for file handling and other features in Flask
